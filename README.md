@@ -1,4 +1,4 @@
-# NYCU_CloudNative
+# NYCU_CloudNative 期中作業
 繳交方式：上傳至e3
 
 繳交格式：以投影片簡報呈現，字體大小不可低於16級。
